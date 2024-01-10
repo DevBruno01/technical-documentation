@@ -1,0 +1,36 @@
+@media(min-width: 768) and (max-width: 2160) {}
+
+body {
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    flex-direction: column;
+
+}
+
+header {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main-section {
+    font-size: 14px;
+}
+
+p {
+    text-align: start;
+}
+
+code {
+    display: block;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+ul>li {
+    font-weight: bold;
+    margin-top: 5px;
+}
